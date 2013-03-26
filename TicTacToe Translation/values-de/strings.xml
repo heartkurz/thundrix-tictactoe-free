@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Tic-Tac-Toe</string>
+    
+    
+
+    <!--  BluetoothChat -->
+    <string name="not_connected">Du bist mit niemandem verbunden</string>
+    <string name="bt_not_enabled_leaving">Bluetooth wurde nicht gestartet. Das Spiel wird beendet.</string>
+    <string name="title_connecting">Verbinden...</string>
+    <string name="title_connected_to">Verbunden mit <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">nicht verbunden</string>
+    <string name="connection_failed">Verbindung fehlgeschlagen. Geräte gekoppelt?</string>
+    <string name="connection_refused">Anderer Spieler hat abgelehnt</string>
+    <string name="want_to_play"> möchte gegen dich spielen. Ein neues Spiel starten?</string>
+    <string name="opponent_left">Gegner hat das Spiel verlassen. Auch verlassen?</string>
+    <string name="leave_game">Spiel verlassen</string>
+    <string name="you_cross">Du bist Kreuz</string>
+    <string name="you_circle">Du bist Kreis</string>
+    
+    <string name="search">Suchen</string>
+    <string name="searching">Suche</string>
+    <string name="connecting">Verbinden...</string>
+
+    <!--  DeviceListActivity -->
+    <string name="select_device">Partner wählen</string>
+    <string name="none_paired">Keine gekoppelten Geräte</string>
+    <string name="none_found">Keine Geräte gefunden</string>
+    <string name="title_paired_devices">Gekoppelte Geräte</string>
+    <string name="title_other_devices">Andere verfügbare Geräte</string>
+    
+    <string name="bu_bluetooth">Bluetooth</string>
+       
+    <string name="reset">Reset</string>
+    <string name="stats_he">Statistiken</string>
+    
+    <string name="po_new">Neues Spiel</string>
+    <string name="po_cancel">Beenden</string>
+    <string name="termination">Verbindung wird in 15 Sekunden geschlossen</string>
+    
+ 
+    <string name="de_paired_devices">Gekoppelte Geräte</string>
+    
+    <string name="chat">Chat</string>
+    <string name="chat_he">Chatverlauf</string>
+    <string name="chat_back">Zurück</string>
+    <string name="chat_send">Senden</string>
+    <string name="chat_empty">Klicke hier um den Chat zu öffnen</string>
+    
+    <string name="name">Name: </string>
+    
+    <string name="singleplayer">Einzelspieler</string>
+    <string name="multiplayer">Mehrspieler</string>
+    <string name="about">Über</string>
+    <string name="information">Unterstütze uns durch den Kauf der werbefreien Version oder durch eine Spende auf unserer Homepage. © 2013 by Thundrix Studios All Rights Reserved</string>
+    <string name="bu_font">Info</string>
+    <string name="ab_kontakt">Kontakt</string>
+    <string name="ab_rate">Bewerten</string>
+    <string name="ab_impressum">Impressum</string>
+    
+    
+    <string name="other_devices">Andere Geräte</string>
+    <string name="scannen">Suchen</string>
+    <string name="sichtbar">Sichtbar</string>
+    
+    <string name="easy">Leicht</string>
+    <string name="medium">Mittel</string>
+    <string name="hard">Schwer</string>
+    <string name="start">Spiel starten</string>
+    <string name="stats">Stats</string>
+    
+    <string name="cross_wins">Kreuz gewinnt!!!</string>
+    <string name="circle_wins">Kreis gewinnt!!!</string>
+    <string name="draw">Unentschieden!!!</string>
+    
+    <string name="quit">Beenden</string>
+    <string name="newgame">Neues Spiel</string>
+    <string name="reallyQuit">Wirklich das aktuelle Spiel verlassen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    
+    <string name="check_license">Prüfe Lizenz</string>
+
+<!-- Unlicensed dialog messages -->
+<string name="unlicensed_dialog_title">App nicht lizensiert</string>
+<string name="unlicensed_dialog_body">Diese App ist nicht lizensiert. Bitte kaufe sie über Google Play™. Wenn du die App gekauft hast, starte die App bitte neu.</string>
+<string name="buy_button">App kaufen</string>
+<string name="quit_button">Schließen</string>
+
+
+<string name="playstore_info">
+Spiele Tic Tac Toe jetzt auf deinem Android Smartphone,
+entweder im Einzelspieler oder im Mehrspielermodus.
+
+Tic Tac Toe ist ein einfaches Spiel. Du musst versuchen 3 in einer Reihe zu bekommen.
+Der Einzelspieler bietet 3 verschieden Schwierigkeitsstufen. Verbessere dein Können!
+Verbinde dich mit einem anderen Androidgerät und spiele über Bluetooth mit deinen Freunden.
+
+Großartige Merkmale:
+
+• Bluetooth Multiplayer
+• Statistiken des Spiels
+• integrierter Chat im Mehrspieler
+• brilliante Grafiken und Soundeffekte
+• 3×3 und 4×4 Spielfeld
+
+*simples Bluetooth Multiplayer Game für Android*
+
+*** Unterstütze uns. Kaufe die Vollversion um Werbung zu entfernen ***
+</string>
+    
+</resources>
