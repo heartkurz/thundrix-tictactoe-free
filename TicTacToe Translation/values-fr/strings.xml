@@ -5,22 +5,22 @@
     
 
     <!--  BluetoothChat -->
-    <string name="not_connected">You are not connected</string>
-    <string name="bt_not_enabled_leaving">Bluetooth not stated. Game will quit.</string>
-    <string name="title_connecting">Connecting...</string>
-    <string name="title_connected_to">Connected with <xliff:g id="device_name">%1$s</xliff:g></string>
-    <string name="title_not_connected">not connected</string>
-    <string name="connection_failed">Connection failed. Are devices paired?</string>
-    <string name="connection_refused">Other player refused connection</string>
-    <string name="want_to_play"> wants to play. Start new game?</string>
-    <string name="opponent_left">Opponent left. Leave game?</string>
-    <string name="leave_game">Leave game</string>
-    <string name="you_cross">You are cross</string>
-    <string name="you_circle">You are circle</string>
+    <string name="not_connected">Vous n'êtes pas connecté</string>
+    <string name="bt_not_enabled_leaving">Bluetooth non démarré. Le jeu va se terminer.</string>
+    <string name="title_connecting">Connexion...</string>
+    <string name="title_connected_to">Connecté avec <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">déconnecté</string>
+    <string name="connection_failed">Échec de connection. Les appareils sont-ils appairés?</string>
+    <string name="connection_refused">L'autre joueur a refusé la connexion</string>
+    <string name="want_to_play"> veut jouer. Démarrer un nouveau jeu?</string>
+    <string name="opponent_left">L'adversaire est parti. Quitter le jeu?</string>
+    <string name="leave_game">Quitter le jeu</string>
+    <string name="you_cross">Vous avez les croix</string>
+    <string name="you_circle">Vous avez les cercles</string>
     
-    <string name="search">Search</string>
-    <string name="searching">Search</string>
-    <string name="connecting">Connecting...</string>
+    <string name="search">Rechercher</string>
+    <string name="searching">Recherche</string>
+    <string name="connecting">Connexion...</string>
 
     <!--  DeviceListActivity -->
     <string name="select_device">Choose opponent</string>
