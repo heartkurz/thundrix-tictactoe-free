@@ -23,91 +23,90 @@
     <string name="connecting">Connexion...</string>
 
     <!--  DeviceListActivity -->
-    <string name="select_device">Choose opponent</string>
-    <string name="none_paired">No paired devices</string>
-    <string name="none_found">No devices found</string>
-    <string name="title_paired_devices">Paired devices</string>
-    <string name="title_other_devices">Other devices</string>
+    <string name="select_device">Choisir adversaire</string>
+    <string name="none_paired">Aucun appareil appairé</string>
+    <string name="none_found">Aucun appareil trouvé</string>
+    <string name="title_paired_devices">Appareils appairés</string>
+    <string name="title_other_devices">Autres appareils</string>
     
     <string name="bu_bluetooth">Bluetooth</string>
        
-    <string name="reset">Reset</string>
-    <string name="stats_he">Statistics</string>
+    <string name="reset">Redémarrer</string>
+    <string name="stats_he">Statistiques</string>
     
-    <string name="po_new">New Game</string>
-    <string name="po_cancel">Quit</string>
-    <string name="termination">Connection will be terminated in 15 seconds</string>
+    <string name="po_new">Nouveau jeu</string>
+    <string name="po_cancel">Quitter</string>
+    <string name="termination">La connexion se terminera dans 15 secondes</string>
     
  
-    <string name="de_paired_devices">Paired devices</string>
+    <string name="de_paired_devices">Appareils appairés</string>
     
-    <string name="chat">Chat</string>
-    <string name="chat_he">Chat record</string>
-    <string name="chat_back">Back</string>
-    <string name="chat_send">Send</string>
-    <string name="chat_empty">Click here to open chat</string>
+    <string name="chat">Tchat</string>
+    <string name="chat_he">Tchat record</string>
+    <string name="chat_back">Retour</string>
+    <string name="chat_send">Envoyer</string>
+    <string name="chat_empty">Cliquez ici pour ouvrir le tchat</string>
     
-    <string name="name">Name: </string>
+    <string name="name">Nom: </string>
     
-    <string name="singleplayer">Singleplayer</string>
-    <string name="multiplayer">Multiplayer</string>
-    <string name="about">About</string>
-    <string name="information">Support us by buying the ad-free version or make a donation on our homepage. © 2013 by Thundrix Studios All Rights Reserved</string>
+    <string name="singleplayer">Un seul joueur</string>
+    <string name="multiplayer">Plusieurs joueurs</string>
+    <string name="about">À propos</string>
+    <string name="information">Soutenez-nous en achetant la version sans pub ou en faisant un don sur notre page d'accueil. © 2013 by Thundrix Studios Tous droits réservés</string>
     <string name="bu_font">Info</string>
     <string name="ab_kontakt">Contact</string>
-    <string name="ab_rate">Rate</string>
-    <string name="ab_impressum">Impressum</string>
+    <string name="ab_rate">Noter</string>
+    <string name="ab_impressum">Mentions légales</string>
     
     
-    <string name="other_devices">Other devices</string>
-    <string name="scannen">Search</string>
+    <string name="other_devices">Autres appareils</string>
+    <string name="scannen">Rechercher</string>
     <string name="sichtbar">Visible</string>
     
-    <string name="easy">Easy</string>
-    <string name="medium">Medium</string>
-    <string name="hard">Hard</string>
-    <string name="start">Start Game</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Moyen</string>
+    <string name="hard">Difficile</string>
+    <string name="start">Démarrer jeu</string>
     <string name="stats">Stats</string>
     
-    <string name="cross_wins">Cross wins!!!</string>
-    <string name="circle_wins">Circle wins!!!</string>
-    <string name="draw">Draw!!!</string>
+    <string name="cross_wins">Les croix gagnent!!!</string>
+    <string name="circle_wins">Les cercles gagnent!!!</string>
+    <string name="draw">Match nul!!!</string>
     
-    <string name="quit">Quit</string>
-    <string name="newgame">New Game</string>
-    <string name="reallyQuit">Do you want to leave the game?</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
+    <string name="quit">Quitter</string>
+    <string name="newgame">Nouveau jeu</string>
+    <string name="reallyQuit">Voulez-vous quitter le jeu?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
     
     <string name="check_license">Check license</string>
 
 <!-- Unlicensed dialog messages -->
-<string name="unlicensed_dialog_title">Application not licensed</string>
-<string name="unlicensed_dialog_body">This application is not licensed. Please purchase it from Google Play™. If you have paid, restart and try again.</string>
-<string name="buy_button">Buy app</string>
-<string name="quit_button">Exit</string>
+<string name="unlicensed_dialog_title">Application non autorisée</string>
+<string name="unlicensed_dialog_body">Cette application n'est pas autorisée. Veuillez l'acheter sur Google Play™. Si vous l'avez payée, redémarrez et essayez à nouveau.</string>
+<string name="buy_button">Acheter appli</string>
+<string name="quit_button">Quitter</string>
 
 
 <string name="playstore_info">
-Play Tic Tac Toe, also known as naughts or crosses on your Android device.
-The game supports single- and multiplayer.
+Jouez au Tic Tac Toe, aussi appelé Morpion, sur votre appareil Android.
+Le jeu peut se jouer seul ou à plusieurs.
 
-Tic Tac Toe is a simple game. You have to get three in a row to win the game.
-The singleplayer mode provides three levels of difficulty. Improve your skills!
-Connect to another Android device via bluetooth and play with your friends.
+Tic Tac Toe est un jeu facile. Vous devez faire une ligne de trois pour gagner la partie.
+Le mode à un seul joueur offre trois niveaux de difficulté. Améliorez vos compétences!
+Connectez-vous à un autre appareil Android via Bluetooth et jouez avec vos amis.
 
+Fonctionnalités remarquables:
 
-Great features:
+• plusieurs joueurs en Bluetooth
+• statistiques de vos parties
+• tchat intégré en multijoueur
+• superbes graphiques et effets sonores
+• jeu en 3×3 et 4×4
 
-• bluetooth multiplayer
-• statistics of your games
-• integrated chat in multiplayer
-• brilliant graphics and sound effects
-• 3×3 and 4×4 game field
+*jeu simple multijoueur Bluetooth pour Android*
 
-*simple bluetooth multiplayer game for Android*
-
-*** Support Us. Buy full version to remove ads ***
+*** Soutenez-nous. Achetez la version complète pour enlever les pubs ***
 </string>
     
     
