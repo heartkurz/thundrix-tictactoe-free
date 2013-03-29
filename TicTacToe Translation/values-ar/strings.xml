@@ -5,8 +5,8 @@
     
 
     <!--  BluetoothChat -->
-    <string name="not_connected">أنت غير متصل</string>
-    <string name="bt_not_enabled_leaving">بلوتوث لم يبدأ. اللعبة سوف تخرج.</string>
+    <string name="not_connected"> أنت غير متصل بجهاز</string>
+    <string name="bt_not_enabled_leaving">بلوتوث لا يعمل. اللعبة سوف تخرج.</string>
     <string name="title_connecting">...يتم الارتباط</string>
     <string name="title_connected_to"> أنت مرتبط مع <xliff:g id="device_name">%1$s</xliff:g></string>
     <string name="title_not_connected">غير متصل</string>
@@ -19,7 +19,7 @@
     <string name="you_circle">أنت الدائرة</string>
     
     <string name="search">البحث</string>
-    <string name="searching">البحث</string>
+    <string name="searching">...البحث</string>
     <string name="connecting">...يتم الارتباط</string>
 
     <!--  DeviceListActivity -->
@@ -36,10 +36,10 @@
     
     <string name="po_new">لعبة جديدة</string>
     <string name="po_cancel">الخروج</string>
-    <string name="termination">سيتم إنهاء الاتصال في 15 ثانية</string>
+    <string name="termination">سيتم إنهاء الارتباط في 15 ثانية</string>
     
  
-    <string name="de_paired_devices">الأجهزى مرتبطة</string>
+    <string name="de_paired_devices">الأجهزى المرتبطة</string>
     
     <string name="chat">الدردشة</string>
     <string name="chat_he">تسجيل الدردشة</string>
@@ -50,11 +50,11 @@
     <string name="name">: الاسم</string>
     
     <string name="singleplayer">لاعب واحد</string>
-    <string name="multiplayer">أكثر من لاعب</string>
+    <string name="multiplayer">لاعبان</string>
     <string name="about">حول</string>
     <string name="information">ادعمنا عن طريق شراء النسخة خالية من الاعلانات أو التبرع على صفحتنا الرئيسية. © 2013 من قبل استوديوهات Thundrix جميع الحقوق محفوظة</string>
     <string name="bu_font">معلومات</string>
-    <string name="ab_kontakt">Contact</string>
+    <string name="ab_kontakt">تواصل</string>
     <string name="ab_rate">معدل</string>
     <string name="ab_impressum">عنوان</string>
     
@@ -82,15 +82,14 @@
     <string name="check_license">التأكد من الرخصة</string>
 
 <!-- Unlicensed dialog messages -->
-<string name="unlicensed_dialog_title">التطبيق غير مرخص</string>
-<string name="unlicensed_dialog_body">. هذا التطبيق غير مرخص, يرجى شرائها. إذا كنت قد دفعت، يرجى إعادة التشغيل والمحاولة مرة أخرى </string>
+<string name="unlicensed_dialog_title">اللعبة غير مرخصة</string>
+<string name="unlicensed_dialog_body">هذه اللعبة غير مرخصة, يرجى منك شرائها. إذا كنت قد دفعت، يرجى إعادة التشغيل والمحاولة مرة أخرى </string>
 <string name="buy_button">شراء اللعبة</string>
 <string name="quit_button">الخروج</string>
 
 
 <string name="playstore_info">
-لعب تيك تاك تو، المعروف أيضا باسم الأصفار أو الصلبان على جهاز Android الخاص بك.
-اللعبة تدعم واحد ومتعددة.
+العب تيك تاك تو، المعروفة أيضا باسم الأصفار والصلبان على جهازك. اللعبة تدعم لاعب و لاعبان
 
 تيك تاك تو هي لعبة بسيطة. عليك ان تحصل على ثلاث مرات متتالية لتحقيق الفوز في المباراة.
 وضع المنفرد يوفر ثلاثة مستويات من الصعوبة. حسن المهارات الخاصة بك!
