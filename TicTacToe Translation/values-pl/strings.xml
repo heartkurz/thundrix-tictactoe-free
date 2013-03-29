@@ -63,21 +63,21 @@
     <string name="scannen">Search</string>
     <string name="sichtbar">Visible</string>
     
-    <string name="easy">Easy</string>
-    <string name="medium">Medium</string>
-    <string name="hard">Hard</string>
-    <string name="start">Start Game</string>
-    <string name="stats">Stats</string>
+    <string name="easy">Łatwy</string>
+    <string name="medium">Średni</string>
+    <string name="hard">Trudny</string>
+    <string name="start">Rozpocznij grę</string>
+    <string name="stats">Statystylo</string>
     
-    <string name="cross_wins">Cross wins!!!</string>
-    <string name="circle_wins">Circle wins!!!</string>
+    <string name="cross_wins">Krzyżyk wygrywa!!!</string>
+    <string name="circle_wins">Kółko wygrywa!!!</string>
     <string name="draw">Draw!!!</string>
     
-    <string name="quit">Quit</string>
-    <string name="newgame">New Game</string>
+    <string name="quit">Wyjdź</string>
+    <string name="newgame">Nowa gra</string>
     <string name="reallyQuit">Do you want to leave the game?</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
     
     <string name="check_license">Check license</string>
 
