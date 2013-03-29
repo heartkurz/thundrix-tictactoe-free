@@ -26,7 +26,7 @@
     <string name="select_device">اختار الخصم</string>
     <string name="none_paired">لا يوجد أجهزى مرتبطة</string>
     <string name="none_found">لم يتم العثور على أي أجهزة </string>
-    <string name="title_paired_devices">الأجهزى مرتبطة</string>
+    <string name="title_paired_devices">الأجهزى المرتبطة</string>
     <string name="title_other_devices">أجهزى أخرى</string>
     
     <string name="bu_bluetooth">بلوتوث</string>
@@ -84,7 +84,7 @@
 <!-- Unlicensed dialog messages -->
 <string name="unlicensed_dialog_title">التطبيق غير مرخص</string>
 <string name="unlicensed_dialog_body">. هذا التطبيق غير مرخص, يرجى شرائها. إذا كنت قد دفعت، يرجى إعادة التشغيل والمحاولة مرة أخرى </string>
-<string name="buy_button">شراء العبة</string>
+<string name="buy_button">شراء اللعبة</string>
 <string name="quit_button">الخروج</string>
 
 
