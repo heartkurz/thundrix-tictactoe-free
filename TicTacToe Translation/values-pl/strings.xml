@@ -13,41 +13,41 @@
     <string name="connection_failed">Nie połączono. Czy urządzenia są sparowane?</string>
     <string name="connection_refused">Gracz odrzucił połączenie</string>
     <string name="want_to_play"> chcesz zagrać? Rozpocznij nową grę.</string>
-    <string name="opponent_left">Przeciwnik rozłączony. Wyłączyć grę?</string>
-    <string name="leave_game">Leave game</string>
-    <string name="you_cross">You are cross</string>
-    <string name="you_circle">You are circle</string>
+    <string name="opponent_left">Przeciwnik opuścił grę. Wyłączyć grę?</string>
+    <string name="leave_game">Opuść grę</string>
+    <string name="you_cross">Jesteś krzyżykiem</string>
+    <string name="you_circle">Jesteś kółkiem</string>
     
-    <string name="search">Search</string>
-    <string name="searching">Search</string>
-    <string name="connecting">Connecting...</string>
+    <string name="search">Szukaj</string>
+    <string name="searching">Szukanie</string>
+    <string name="connecting">Łączenie...</string>
 
     <!--  DeviceListActivity -->
-    <string name="select_device">Choose opponent</string>
-    <string name="none_paired">No paired devices</string>
-    <string name="none_found">No devices found</string>
-    <string name="title_paired_devices">Paired devices</string>
-    <string name="title_other_devices">Other devices</string>
+    <string name="select_device">Wybierz przeciwnika</string>
+    <string name="none_paired">Brak sparowanych urządzeń</string>
+    <string name="none_found">Nie znaleziono urządzeń</string>
+    <string name="title_paired_devices">Sparowane urządzenia</string>
+    <string name="title_other_devices">Inne urządzenia</string>
     
     <string name="bu_bluetooth">Bluetooth</string>
        
-    <string name="reset">Reset</string>
-    <string name="stats_he">Statistics</string>
+    <string name="reset">Resetuj</string>
+    <string name="stats_he">Statystyki</string>
     
-    <string name="po_new">New Game</string>
-    <string name="po_cancel">Quit</string>
-    <string name="termination">Connection will be terminated in 15 seconds</string>
+    <string name="po_new">Nowa gra</string>
+    <string name="po_cancel">Wyjdź</string>
+    <string name="termination">Zostaniesz rozłączony za 15 sekund</string>
     
  
-    <string name="de_paired_devices">Paired devices</string>
+    <string name="de_paired_devices">Sparowane urządzenia</string>
     
-    <string name="chat">Chat</string>
-    <string name="chat_he">Chat record</string>
-    <string name="chat_back">Back</string>
-    <string name="chat_send">Send</string>
-    <string name="chat_empty">Click here to open chat</string>
+    <string name="chat">Czat</string>
+    <string name="chat_he">Czat</string>
+    <string name="chat_back">Cofnij</string>
+    <string name="chat_send">Wyślij</string>
+    <string name="chat_empty">Kliknij aby otworzyć czat</string>
     
-    <string name="name">Name: </string>
+    <string name="name">Nazwa: </string>
     
     <string name="singleplayer">Singleplayer</string>
     <string name="multiplayer">Multiplayer</string>
